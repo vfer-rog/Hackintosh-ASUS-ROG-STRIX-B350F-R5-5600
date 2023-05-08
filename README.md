@@ -12,7 +12,6 @@
 | Ethernet         | Intel I211                        |
 | WiFi & Bluetooth | Intel AX200 PCI-E                 |
 | OS Disk (NVMe)   | KIOXIA RC10 500G NVME             |
-| OPENCORE Version | OC v0.8.8                         |
 
 **macOS version**: 12.6 (21F79) 
 **OpenCore version**: 0.8.8
